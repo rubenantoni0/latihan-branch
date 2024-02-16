@@ -1,3 +1,3 @@
 # ini latihan branch
 
-asyik banget
+tidak asyik
